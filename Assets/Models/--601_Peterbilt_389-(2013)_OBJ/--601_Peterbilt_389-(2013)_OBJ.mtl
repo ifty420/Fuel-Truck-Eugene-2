@@ -1,0 +1,38 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.0 x64 6.0.1.6053 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Peterbilt_389_red_cabin
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.35 0.35 0.35
+illum 2
+Ns 32
+map_Kd Peterbilt_389_2013_02_01.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA Peterbilt_389_2013_02_01.jpg
+map_Ns 
+
+newmtl Peterbilt_389_red_cystern
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.35 0.35 0.35
+illum 2
+Ns 32
+map_Kd Peterbilt_389_2013_02_02.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA Peterbilt_389_2013_02_02.jpg
+map_Ns 

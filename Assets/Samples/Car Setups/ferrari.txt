@@ -1,0 +1,227 @@
+[body]
+weight=1450
+weightRepartition=0.5
+centerOfMass=(0.0, -0.2, 0.0)
+inertiaFactor=1
+dragCoefficent=0.3
+dragArea=1.858
+
+[engine]
+maxPower=450
+maxPowerRPM=8000
+maxTorque=500
+maxTorqueRPM=4500
+minRPM=1000
+maxRPM=8500
+revLimiter=True
+revLimiterTime=0.1
+engineInertia=0.4
+engineFrictionFactor=0.3
+engineOrientation=(0.0, 0.0, 1.0)
+canStall=False
+fuelConsumptionAtCostantSpeed=12
+fuelConsumptionSpeed=130
+torque-curve = 188,0
+torque-curve = 288,66
+torque-curve = 377,137
+torque-curve = 444,229
+torque-curve = 500,290
+torque-curve = 611,345
+torque-curve = 744,387
+torque-curve = 833,414
+torque-curve = 922,430
+torque-curve = 1122,460
+torque-curve = 1322,493
+torque-curve = 1600,526
+torque-curve = 1950,552
+torque-curve = 2188,569
+torque-curve = 2444,583
+torque-curve = 2666,594
+torque-curve = 2916,606
+torque-curve = 3233,618
+torque-curve = 3466,630
+torque-curve = 3716,638
+torque-curve = 3950,642
+torque-curve = 4250,646
+torque-curve = 4716,648
+torque-curve = 5066,648
+torque-curve = 5400,650
+torque-curve = 5750,642
+torque-curve = 6116,624
+torque-curve = 6383,610
+torque-curve = 6666,588
+torque-curve = 6850,578
+torque-curve = 7066,566
+torque-curve = 7316,554
+torque-curve = 7500,543
+torque-curve = 7683,524
+torque-curve = 7850,512
+torque-curve = 8000,488
+torque-curve = 8150,470
+torque-curve = 8266,445
+torque-curve = 8377,413
+torque-curve = 8500,352
+torque-curve = 8666,255
+torque-curve = 8844,138
+torque-curve = 8955,46
+torque-curve = 9000,0
+
+[transmission]
+transmissionType=RWD
+finalDriveRatio=5
+drivetrainInertia=0.02
+differentialLockCoefficient=80
+shifter=False
+automatic=True
+autoReverse=True
+shiftDownRPM=3000
+shiftUpRPM=0
+shiftTime=0.2
+clutchMaxTorque=0
+autoClutch=True
+engageRPM=1500
+disengageRPM=1500
+gears=6
+gear-ratio-r=-2.66
+gear-ratio-1=2.66
+gear-ratio-2=1.91
+gear-ratio-3=1.39
+gear-ratio-4=1.05
+gear-ratio-5=0.8
+gear-ratio-6=0.63
+
+[suspensions-frontAxle]
+suspensionTravel=0.2
+suspensionRate=40000
+bumpRate=4000
+reboundRate=4000
+fastBumpFactor=0.3
+fastReboundFactor=0.3
+camber=0
+antiRollBarRate=10000
+maxSteeringAngle=33
+
+[suspensions-rearAxle]
+suspensionTravel=0.2
+suspensionRate=40000
+bumpRate=4000
+reboundRate=4000
+fastBumpFactor=0.3
+fastReboundFactor=0.3
+camber=0
+antiRollBarRate=10000
+maxSteeringAngle=0
+
+[brakes-frontAxle]
+brakeFrictionTorque=1500
+handbrakeFrictionTorque=0
+
+[brakes-rearAxle]
+BrakeFrictionTorque=1500
+HandbrakeFrictionTorque=1500
+
+[brakes]
+frontRearBrakeBalance=0.65
+frontRearHandBrakeBalance=0
+
+[tires-frontAxle]
+tireType=competition_front
+forwardGripFactor=1
+sidewaysGripFactor=1
+tiresPressure=200
+optimalTiresPressure=200
+
+[tires-rearAxle]
+tireType=competition_rear
+forwardGripFactor=1
+sidewaysGripFactor=1
+tiresPressure=200
+optimalTiresPressure=200
+
+[wheels-frontAxle-left]
+mass=60
+radius=0.34
+rimRadius=0.25
+width=0.305
+
+[wheels-frontAxle-right]
+mass=60
+radius=0.34
+rimRadius=0.25
+width=0.305
+
+[wheels-rearAxle-left]
+mass=60
+radius=0.34
+rimRadius=0.25
+width=0.345
+
+[wheels-rearAxle-right]
+mass=60
+radius=0.34
+rimRadius=0.25
+width=0.345
+
+[wing1]
+dragCoefficient=0.05
+angleOfAttack=1
+area=1
+
+[wing2]
+dragCoefficient=0.02
+angleOfAttack=1
+area=1
+
+[controllerType]
+controller=axis
+
+[axisController]
+smoothInput=True
+throttleTime=0.1
+throttleReleaseTime=0.1
+maxThrottleInReverse=1
+brakesTime=0.1
+brakesReleaseTime=0.1
+steerTime=0.1
+steerReleaseTime=0.1
+veloSteerTime=0.05
+veloSteerReleaseTime=0.05
+steerCorrectionFactor=0
+steerAssistance=True
+SteerAssistanceMinVelocity=20
+TCS=True
+TCSThreshold=0
+TCSMinVelocity=20
+ABS=True
+ABSThreshold=0
+ABSMinVelocity=20
+ESP=True
+ESPStrength=3
+ESPMinVelocity=35
+
+[physicMaterials]
+trackGrip=1
+trackRollingFriction=0.018
+trackStaticFriction=1
+grassGrip=0.6
+grassRollingFriction=0.05
+grassStaticFriction=0.6
+sandGrip=0.6
+sandRollingFriction=0.15
+sandStaticFriction=0.8
+offRoadGrip=0.6
+offRoadRollingFriction=0.05
+offRoadStaticFriction=0.9
+
+[arcader]
+minVelocity=35
+overallStrength=0.5
+COGHelperStrength=1
+torqueHelperStrength=1
+gripHelperStrength=1
+
+[fuelTank1]
+tankCapacity=95
+currentFuel=95
+tankWeight=10
+fuelDensity=0.73722

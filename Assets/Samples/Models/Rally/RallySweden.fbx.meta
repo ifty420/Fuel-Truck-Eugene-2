@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: e4f946d4b7e9ee24580b850885d88893
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Track  1
+    100002: //RootNode
+    100004: Track  5
+    100006: Trees  4
+    100008: Track
+    100010: Trees  3
+    100012: Trees  1
+    100014: Texture Group
+    100016: Track  3
+    100018: 'Trees '
+    100020: Trees  5
+    100022: Trees
+    100024: 'Track '
+    100026: Track  2
+    100028: Trees  2
+    100030: Track  4
+    400000: Track  1
+    400002: //RootNode
+    400004: Track  5
+    400006: Trees  4
+    400008: Track
+    400010: Trees  3
+    400012: Trees  1
+    400014: Texture Group
+    400016: Track  3
+    400018: 'Trees '
+    400020: Trees  5
+    400022: Trees
+    400024: 'Track '
+    400026: Track  2
+    400028: Trees  2
+    400030: Track  4
+    2300000: Track  1
+    2300002: Track  5
+    2300004: Trees  4
+    2300006: Track
+    2300008: Trees  3
+    2300010: Trees  1
+    2300012: Track  3
+    2300014: 'Trees '
+    2300016: Trees  5
+    2300018: Trees
+    2300020: 'Track '
+    2300022: Track  2
+    2300024: Trees  2
+    2300026: Track  4
+    3300000: Track  1
+    3300002: Track  5
+    3300004: Trees  4
+    3300006: Track
+    3300008: Trees  3
+    3300010: Trees  1
+    3300012: Track  3
+    3300014: 'Trees '
+    3300016: Trees  5
+    3300018: Trees
+    3300020: 'Track '
+    3300022: Track  2
+    3300024: Trees  2
+    3300026: Track  4
+    4300000: Track
+    4300002: Trees
+    4300004: 'Track '
+    4300006: 'Track '
+    4300008: 'Track '
+    4300010: 'Track '
+    4300012: 'Track '
+    4300014: 'Track '
+    4300016: 'Trees '
+    4300018: 'Trees '
+    4300020: 'Trees '
+    4300022: 'Trees '
+    4300024: 'Trees '
+    4300026: 'Trees '
+    6400000: Trees  3
+    6400002: Trees
+    6400004: Trees  2
+    6400006: Track
+    6400008: Trees  1
+    6400010: Track  5
+    6400012: 'Track '
+    6400014: Trees  4
+    6400016: Trees  5
+    6400018: Track  1
+    6400020: 'Trees '
+    6400022: Track  4
+    6400024: Track  2
+    6400026: Track  3
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

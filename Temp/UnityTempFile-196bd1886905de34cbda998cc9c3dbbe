@@ -1,0 +1,294 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"D:/Program Files/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/Managed/UnityEngine.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll
+-r:Assets/Plugins/ICSharpCode.SharpZipLib.dll
+-r:Assets/Plugins/NP_AdmobAd_WP.dll
+-r:"Assets/Standard Assets/NeatPlug/Ads/AdmobAd/AdmobAdLib.dll"
+-define:UNITY_4_5_5
+-define:UNITY_4_5
+-define:UNITY_ANDROID
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_MONO
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:INCLUDE_WP_BLUE_SUPPORT
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:UNITY_ANDROID_API
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:UNITY_PRO_LICENSE
+"Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX2_Demo.cs"
+"Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX3_AutoStopLoopedEffect.cs"
+"Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX3_Demo.cs"
+"Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX3_Demo_Translate.cs"
+"Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_RandomDir.cs"
+"Assets/JMO Assets/Cartoon FX/Demo/Assets/CFX_Demo_RotateCamera.cs"
+"Assets/JMO Assets/Cartoon FX/Scripts/CFX2_AutoRotate.cs"
+"Assets/JMO Assets/Cartoon FX/Scripts/CFX_AutoDestructShuriken.cs"
+"Assets/JMO Assets/Cartoon FX/Scripts/CFX_AutodestructWhenNoChildren.cs"
+"Assets/JMO Assets/Cartoon FX/Scripts/CFX_LightIntensityFade.cs"
+"Assets/JMO Assets/Cartoon FX/Scripts/CFX_ShurikenThreadFix.cs"
+"Assets/JMO Assets/Cartoon FX/Spawn System/CFX_SpawnSystem.cs"
+"Assets/JSON Tests/CSharp/Test_CSharp.cs"
+Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipItems.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipRandomItem.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/Game/UICursor.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIEquipmentSlot.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemStorage.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIStorageSlot.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/System/InvAttachmentPoint.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/System/InvBaseItem.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/System/InvDatabase.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs
+Assets/NGUI/Examples/Scripts/InventorySystem/System/InvStat.cs
+Assets/NGUI/Examples/Scripts/Other/ChatInput.cs
+Assets/NGUI/Examples/Scripts/Other/DownloadTexture.cs
+Assets/NGUI/Examples/Scripts/Other/ExampleDragDropItem.cs
+Assets/NGUI/Examples/Scripts/Other/ExampleDragDropSurface.cs
+Assets/NGUI/Examples/Scripts/Other/LagPosition.cs
+Assets/NGUI/Examples/Scripts/Other/LagRotation.cs
+Assets/NGUI/Examples/Scripts/Other/LoadLevelOnClick.cs
+Assets/NGUI/Examples/Scripts/Other/LookAtTarget.cs
+Assets/NGUI/Examples/Scripts/Other/PanWithMouse.cs
+Assets/NGUI/Examples/Scripts/Other/PlayIdleAnimations.cs
+Assets/NGUI/Examples/Scripts/Other/SetColorOnSelection.cs
+Assets/NGUI/Examples/Scripts/Other/ShaderQuality.cs
+Assets/NGUI/Examples/Scripts/Other/Spin.cs
+Assets/NGUI/Examples/Scripts/Other/SpinWithMouse.cs
+Assets/NGUI/Examples/Scripts/Other/TypewriterEffect.cs
+Assets/NGUI/Examples/Scripts/Other/UISliderColors.cs
+Assets/NGUI/Examples/Scripts/Other/WindowAutoYaw.cs
+Assets/NGUI/Examples/Scripts/Other/WindowDragTilt.cs
+Assets/NGUI/Scripts/Interaction/LanguageSelection.cs
+Assets/NGUI/Scripts/Interaction/UIButton.cs
+Assets/NGUI/Scripts/Interaction/UIButtonActivate.cs
+Assets/NGUI/Scripts/Interaction/UIButtonColor.cs
+Assets/NGUI/Scripts/Interaction/UIButtonKeys.cs
+Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs
+Assets/NGUI/Scripts/Interaction/UIButtonOffset.cs
+Assets/NGUI/Scripts/Interaction/UIButtonRotation.cs
+Assets/NGUI/Scripts/Interaction/UIButtonScale.cs
+Assets/NGUI/Scripts/Interaction/UICenterOnChild.cs
+Assets/NGUI/Scripts/Interaction/UICenterOnClick.cs
+Assets/NGUI/Scripts/Interaction/UIDragCamera.cs
+Assets/NGUI/Scripts/Interaction/UIDragDropContainer.cs
+Assets/NGUI/Scripts/Interaction/UIDragDropItem.cs
+Assets/NGUI/Scripts/Interaction/UIDragDropRoot.cs
+Assets/NGUI/Scripts/Interaction/UIDragObject.cs
+Assets/NGUI/Scripts/Interaction/UIDragResize.cs
+Assets/NGUI/Scripts/Interaction/UIDragScrollView.cs
+Assets/NGUI/Scripts/Interaction/UIDraggableCamera.cs
+Assets/NGUI/Scripts/Interaction/UIEventTrigger.cs
+Assets/NGUI/Scripts/Interaction/UIForwardEvents.cs
+Assets/NGUI/Scripts/Interaction/UIGrid.cs
+Assets/NGUI/Scripts/Interaction/UIImageButton.cs
+Assets/NGUI/Scripts/Interaction/UIKeyBinding.cs
+Assets/NGUI/Scripts/Interaction/UIPlayAnimation.cs
+Assets/NGUI/Scripts/Interaction/UIPlaySound.cs
+Assets/NGUI/Scripts/Interaction/UIPlayTween.cs
+Assets/NGUI/Scripts/Interaction/UIPopupList.cs
+Assets/NGUI/Scripts/Interaction/UIProgressBar.cs
+Assets/NGUI/Scripts/Interaction/UISavedOption.cs
+Assets/NGUI/Scripts/Interaction/UIScrollBar.cs
+Assets/NGUI/Scripts/Interaction/UIScrollView.cs
+Assets/NGUI/Scripts/Interaction/UISlider.cs
+Assets/NGUI/Scripts/Interaction/UISoundVolume.cs
+Assets/NGUI/Scripts/Interaction/UITable.cs
+Assets/NGUI/Scripts/Interaction/UIToggle.cs
+Assets/NGUI/Scripts/Interaction/UIToggledComponents.cs
+Assets/NGUI/Scripts/Interaction/UIToggledObjects.cs
+Assets/NGUI/Scripts/Interaction/UIWidgetContainer.cs
+Assets/NGUI/Scripts/Internal/ActiveAnimation.cs
+Assets/NGUI/Scripts/Internal/AnimationOrTween.cs
+Assets/NGUI/Scripts/Internal/BMFont.cs
+Assets/NGUI/Scripts/Internal/BMGlyph.cs
+Assets/NGUI/Scripts/Internal/BMSymbol.cs
+Assets/NGUI/Scripts/Internal/BetterList.cs
+Assets/NGUI/Scripts/Internal/ByteReader.cs
+Assets/NGUI/Scripts/Internal/EventDelegate.cs
+Assets/NGUI/Scripts/Internal/Localization.cs
+Assets/NGUI/Scripts/Internal/NGUIDebug.cs
+Assets/NGUI/Scripts/Internal/NGUIMath.cs
+Assets/NGUI/Scripts/Internal/NGUIText.cs
+Assets/NGUI/Scripts/Internal/NGUITools.cs
+Assets/NGUI/Scripts/Internal/RealTime.cs
+Assets/NGUI/Scripts/Internal/SpringPanel.cs
+Assets/NGUI/Scripts/Internal/UIDrawCall.cs
+Assets/NGUI/Scripts/Internal/UIEventListener.cs
+Assets/NGUI/Scripts/Internal/UIGeometry.cs
+Assets/NGUI/Scripts/Internal/UIRect.cs
+Assets/NGUI/Scripts/Internal/UIWidget.cs
+Assets/NGUI/Scripts/Tweening/AnimatedAlpha.cs
+Assets/NGUI/Scripts/Tweening/AnimatedColor.cs
+Assets/NGUI/Scripts/Tweening/SpringPosition.cs
+Assets/NGUI/Scripts/Tweening/TweenAlpha.cs
+Assets/NGUI/Scripts/Tweening/TweenColor.cs
+Assets/NGUI/Scripts/Tweening/TweenFOV.cs
+Assets/NGUI/Scripts/Tweening/TweenHeight.cs
+Assets/NGUI/Scripts/Tweening/TweenOrthoSize.cs
+Assets/NGUI/Scripts/Tweening/TweenPosition.cs
+Assets/NGUI/Scripts/Tweening/TweenRotation.cs
+Assets/NGUI/Scripts/Tweening/TweenScale.cs
+Assets/NGUI/Scripts/Tweening/TweenTransform.cs
+Assets/NGUI/Scripts/Tweening/TweenVolume.cs
+Assets/NGUI/Scripts/Tweening/TweenWidth.cs
+Assets/NGUI/Scripts/Tweening/UITweener.cs
+Assets/NGUI/Scripts/UI/UI2DSprite.cs
+Assets/NGUI/Scripts/UI/UI2DSpriteAnimation.cs
+Assets/NGUI/Scripts/UI/UIAnchor.cs
+Assets/NGUI/Scripts/UI/UIAtlas.cs
+Assets/NGUI/Scripts/UI/UICamera.cs
+Assets/NGUI/Scripts/UI/UIFont.cs
+Assets/NGUI/Scripts/UI/UIInput.cs
+Assets/NGUI/Scripts/UI/UILabel.cs
+Assets/NGUI/Scripts/UI/UILocalize.cs
+Assets/NGUI/Scripts/UI/UIOrthoCamera.cs
+Assets/NGUI/Scripts/UI/UIPanel.cs
+Assets/NGUI/Scripts/UI/UIRoot.cs
+Assets/NGUI/Scripts/UI/UISprite.cs
+Assets/NGUI/Scripts/UI/UISpriteAnimation.cs
+Assets/NGUI/Scripts/UI/UISpriteData.cs
+Assets/NGUI/Scripts/UI/UIStretch.cs
+Assets/NGUI/Scripts/UI/UITextList.cs
+Assets/NGUI/Scripts/UI/UITexture.cs
+Assets/NGUI/Scripts/UI/UITooltip.cs
+Assets/NGUI/Scripts/UI/UIViewport.cs
+Assets/NeatWolf/ParticleFX01/_Scripts/Rotating.cs
+"Assets/Samples/Models/UnityCar City/0000 ats V2 package/atsV2 UnityTerrainBump Package/CustomTerrainScriptAtsV2.cs"
+"Assets/Samples/Models/UnityCar City/TerrainToolkit/TerrainToolkit.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/BlurEffect.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/ColorCorrectionEffect.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/ColorCorrectionEffectPCMac_26.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/Contrast Stretch/ContrastStretchEffect.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/EdgeDetectEffect.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/GlowEffect.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/GlowEffectThreshold_26.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/GrayscaleEffect.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/ImageEffectBase.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/ImageEffects.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/MotionBlur.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/MotionBlurEdge.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/NoiseEffect.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/SSAOEffect.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/SepiaToneEffect.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/TwirlEffect.cs"
+"Assets/Samples/Pro Standard Assets/Image Based/VortexEffect.cs"
+"Assets/Samples/Pro Standard Assets/Water/Sources/Water.cs"
+Assets/Samples/Scripts/CSharpScripts/CameraInfo.cs
+Assets/Samples/Scripts/CSharpScripts/LODcam.cs
+Assets/Samples/Scripts/CSharpScripts/RotatePivot180.cs
+Assets/Samples/Scripts/TrackScripts/CSharpScripts/BirdsBehaviour.cs
+Assets/Samples/Scripts/TrackScripts/CSharpScripts/CombineChildren.cs
+Assets/Samples/Scripts/TrackScripts/CSharpScripts/DisableObjects.cs
+Assets/Samples/Scripts/TrackScripts/CSharpScripts/EffectController.cs
+Assets/Samples/Scripts/TrackScripts/CSharpScripts/Fence.cs
+Assets/Samples/Scripts/TrackScripts/CSharpScripts/Generate2DReflection.cs
+Assets/Samples/Scripts/TrackScripts/CSharpScripts/MeshCombineUtility.cs
+Assets/Samples/Scripts/TrackScripts/CSharpScripts/MirrorReflection.cs
+Assets/Samples/Scripts/TrackScripts/CSharpScripts/ToggleObjectTrigger.cs
+Assets/Scripts/CarControllMobile.cs
+Assets/Scripts/GameManager.cs
+Assets/Scripts/GoogleAnalytics/GoogleAnalytics.cs
+Assets/Scripts/IAS_Handler.cs
+Assets/Scripts/IAS_Manager.cs
+Assets/Scripts/LevelManager.cs
+Assets/Scripts/LevelPack.cs
+Assets/Scripts/MapAI.cs
+Assets/Scripts/MapBtnAI.cs
+Assets/Scripts/MenuAI.cs
+Assets/Scripts/NeatPlug/AdMob_Manager.cs
+Assets/Scripts/NeatPlug/AdmobAdListener.cs
+Assets/Scripts/PreSceneAI.cs
+Assets/Scripts/ProgressAI.cs
+Assets/Scripts/ServiceAI.cs
+Assets/TouchControlsKit/Base/Scripts/Controllers/ButtonBase.cs
+Assets/TouchControlsKit/Base/Scripts/Controllers/Core/ControllerBase.cs
+Assets/TouchControlsKit/Base/Scripts/Controllers/Core/TouchManagerBase.cs
+Assets/TouchControlsKit/Base/Scripts/Controllers/DPadArrowBase.cs
+Assets/TouchControlsKit/Base/Scripts/Controllers/DPadBase.cs
+Assets/TouchControlsKit/Base/Scripts/Controllers/JoystickBase.cs
+Assets/TouchControlsKit/Base/Scripts/Controllers/Misc/Tilt.cs
+Assets/TouchControlsKit/Base/Scripts/Controllers/SteeringWheelBase.cs
+Assets/TouchControlsKit/Base/Scripts/Controllers/TouchpadBase.cs
+Assets/TouchControlsKit/Base/Scripts/InputManager.cs
+Assets/TouchControlsKit/Base/Scripts/Utils/ElementTransparency.cs
+Assets/TouchControlsKit/Base/Scripts/Utils/GuiCamera.cs
+Assets/TouchControlsKit/GUITexture/Scripts/Controllers/ButtonGuiTexture.cs
+Assets/TouchControlsKit/GUITexture/Scripts/Controllers/DPadArrowGuiTexture.cs
+Assets/TouchControlsKit/GUITexture/Scripts/Controllers/DPadGuiTexture.cs
+Assets/TouchControlsKit/GUITexture/Scripts/Controllers/Data/ControllerDataGuiTexture.cs
+Assets/TouchControlsKit/GUITexture/Scripts/Controllers/JoystickGuiTexture.cs
+Assets/TouchControlsKit/GUITexture/Scripts/Controllers/SteeringWheelGuiTexture.cs
+Assets/TouchControlsKit/GUITexture/Scripts/Controllers/TouchpadGuiTexture.cs
+Assets/TouchControlsKit/GUITexture/Scripts/TouchManagment/TouchManagerGuiTexture.cs
+Assets/TouchControlsKit/SpriteRenderer/Scripts/Controllers/ButtonSpriteRenderer.cs
+Assets/TouchControlsKit/SpriteRenderer/Scripts/Controllers/DPadArrowSpriteRenderer.cs
+Assets/TouchControlsKit/SpriteRenderer/Scripts/Controllers/DPadSpriteRenderer.cs
+Assets/TouchControlsKit/SpriteRenderer/Scripts/Controllers/Data/ControllerDataSpriteRenderer.cs
+Assets/TouchControlsKit/SpriteRenderer/Scripts/Controllers/Events/TouchzoneResizeEvents.cs
+Assets/TouchControlsKit/SpriteRenderer/Scripts/Controllers/JoystickSpriteRenderer.cs
+Assets/TouchControlsKit/SpriteRenderer/Scripts/Controllers/SteeringWheelSpriteRenderer.cs
+Assets/TouchControlsKit/SpriteRenderer/Scripts/Controllers/TouchpadSpriteRenderer.cs
+Assets/TouchControlsKit/SpriteRenderer/Scripts/TouchManagment/TouchManagerSpriteRenderer.cs
+Assets/TouchControlsKit/zExamples/API_Demo.cs
+Assets/TouchControlsKit/zExamples/Example2D/Prefabs/rocketLifetime.cs
+Assets/TouchControlsKit/zExamples/Example2D/Scripts/TwoDCameraFollow.cs
+Assets/TouchControlsKit/zExamples/Example2D/Scripts/TwoDGun.cs
+Assets/TouchControlsKit/zExamples/Example2D/Scripts/TwoDPlayerControl.cs
+Assets/TouchControlsKit/zExamples/Example3D/Scripts/FirstPersonExample.cs
+"Assets/TouchControlsKit/zExamples/Tilt-&-Wheel/Scripts/BallMove.cs"
+"Assets/TouchControlsKit/zExamples/Tilt-&-Wheel/Scripts/CarMove.cs"
+Assets/UnityCarScripts/AerodynamicResistance.cs
+Assets/UnityCarScripts/Arcader.cs
+Assets/UnityCarScripts/AxisCarController.cs
+Assets/UnityCarScripts/Axles.cs
+Assets/UnityCarScripts/BlobShadowController.cs
+Assets/UnityCarScripts/BrakeLights.cs
+Assets/UnityCarScripts/CarCameras.cs
+Assets/UnityCarScripts/CarCamerasController.cs
+Assets/UnityCarScripts/CarController.cs
+Assets/UnityCarScripts/CarDamage.cs
+Assets/UnityCarScripts/CarDebug.cs
+Assets/UnityCarScripts/CarDynamics.cs
+Assets/UnityCarScripts/DashBoard.cs
+Assets/UnityCarScripts/Drivetrain.cs
+Assets/UnityCarScripts/ForceFeedback.cs
+Assets/UnityCarScripts/FuelTank.cs
+Assets/UnityCarScripts/MobileCarController.cs
+Assets/UnityCarScripts/Modifier.cs
+Assets/UnityCarScripts/MouseCarController.cs
+Assets/UnityCarScripts/PhysicMaterials.cs
+Assets/UnityCarScripts/SettingsMenu.cs
+Assets/UnityCarScripts/Setup.cs
+Assets/UnityCarScripts/Skidmarks.cs
+Assets/UnityCarScripts/SoundController.cs
+Assets/UnityCarScripts/StartGame.cs
+Assets/UnityCarScripts/SteeringWheel.cs
+Assets/UnityCarScripts/UnityCar.cs
+Assets/UnityCarScripts/Wheel.cs
+Assets/UnityCarScripts/Wing.cs
+-r:"D:/Program Files/Unity/Editor/Data/Mono\lib/mono/unity\System.Runtime.Serialization.dll"
+-r:"D:/Program Files/Unity/Editor/Data/Mono\lib/mono/unity\System.Xml.Linq.dll"
